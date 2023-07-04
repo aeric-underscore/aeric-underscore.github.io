@@ -17,13 +17,6 @@
       description:
         - with a minor in Computer Science
 
-- title: Presentations/Posters
-  type: time_table
-  contents:
-    - title: UIUC Undergraduate Research Symposium
-      institution: 3D Visualizations of Rapidly Spinning, Tilted Black Holes with Self-Gravitating Accretion Disks (<a href="/assets/pdf/poster_URS2023.pdf" target="_blank">poster</a>)
-      year: April 2023
-
 - title: Experience
   type: time_table
   contents:
@@ -31,17 +24,18 @@
       institution: National Center for Supercomputing Applications
       advisor: Professor Antonios Tsokaros
       year: June 2023 - Present
-      description:
-        - Development and paralleliation of COCAL code that solves the initial value problem in numerical relativity for a rotating neutron-star surrounded by a self-gravitating gaseous disk for an upcoming paper.
+
     - title: Undergraduate Research Assistant
       institution: Center for Theoretical Astrophysics, University of Illinois at Urbana-Champaign
       advisor: Professor Stuart L. Shapiro
       year: June 2021 - Present
-      description:
-        - Led a team of 5 undergraduates to create 3D visualizations on supercomputers of neutron stars, black hole disks, and binary black holes using an internally developed, VisIt CLI-based code.
-        - Developed a set of Python/Bash/C++ scripts that extract and visualize gravitational waveforms from numerical relativity simulation data.
-        - Co-developed a set of Python scripts that can measure the proper circumference of black holes, neutron stars, and accretion disks in curved spacetime.
-        - Award-winning visualizations featured in 3 Phys. Rev. D articles and CASC 2023.
+
+- title: Presentations/Posters
+  type: time_table
+  contents:
+    - title: UIUC Undergraduate Research Symposium
+      institution: 3D Visualizations of Rapidly Spinning, Tilted Black Holes with Self-Gravitating Accretion Disks (<a href="/assets/pdf/poster_URS2023.pdf" target="_blank">poster</a>)
+      year: April 2023
 
 # - title: Open Source Projects
 #   type: time_table
