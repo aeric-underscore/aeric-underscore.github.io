@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 Among us jax. Temporary description
 
-High-achieving student pursuing degrees in **physics** and **mathematics** with a minor in **computer science**. Two-plus years of experience as an undergraduate research assistant doing work in theoretical and computational astrophysics. Experienced in **developing and maintaining Python/Bash code** that efficiently process and analyze large datasets.
+<!-- High-achieving student pursuing degrees in **physics** and **mathematics** with a minor in **computer science**. Two-plus years of experience as an undergraduate research assistant doing work in theoretical and computational astrophysics. Experienced in **developing and maintaining Python/Bash code** that efficiently process and analyze large datasets. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -1,10 +1,14 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Eric Yu
-    - name: Date of Birth
-      value: 28th June 2002
+    - name: Name
+      value: Eric Yu (he/him)
+    - name: Email
+      value: ericyu3@illinois.edu
+    - name: Location
+      value: Urbana, Illinois
+    # - name: Date of Birth
+    #   value: 28th June 2002
     # - name: Languages
     #   value: English
 
