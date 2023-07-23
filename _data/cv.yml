@@ -38,8 +38,11 @@
 - title: Presentations/Posters
   type: time_table
   contents:
+    - title: STEM Career Exploration Symposium
+      institution: Gravitational Waves from Black Holes Surrounded by Massive Accretion Disks (<a href="/assets/pdf/poster_7-2023_GWs.pdf" target="_blank">poster</a>)
+
     - title: UIUC Undergraduate Research Symposium
-      institution: 3D Visualizations of Rapidly Spinning, Tilted Black Holes with Self-Gravitating Accretion Disks (<a href="/assets/pdf/poster_URS2023.pdf" target="_blank">poster</a>)
+      institution: 3D Visualizations of Rapidly Spinning, Tilted Black Holes with Self-Gravitating Accretion Disks (<a href="/assets/pdf/poster_4-2023_URS.pdf" target="_blank">poster</a>)
       year: April 2023
 
 # - title: Open Source Projects
