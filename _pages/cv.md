@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: cv_grad-apps.pdf
+cv_pdf: Grad_School_CV.pdf
 ---
