@@ -21,6 +21,8 @@ social: false  # includes social icons at the bottom of the page
 
 Senior in physics and math at UIUC, and undergradaute research assistant doing work in theoretical and computational astrophysics.
 
+Broadly interested in theoretical astrophysics. Have done research related to general relativity (numerical relativity, compact objects, gravitational waves).
+
 Experienced in developing and maintaining Python/Bash code that efficiently process and analyze large datasets.
 
 Amateur classical pianist in my free time (see the '[pretentious](pretentious)' tab). 
