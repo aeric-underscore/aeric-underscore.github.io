@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /other/
-title: other
+permalink: /pretentious/
+title: pretentious
 description: 
 nav: true
 nav_order: 5
@@ -10,9 +10,7 @@ nav_order: 5
 I am an amateur classical pianist and enjoy spending my free time practicing pieces by Chopin, Rachmaninoff, Ravel, and Scriabin among others. Some recordings I'm quite proud of are linked below.
 
 Currently I am working on:
-- Iain Farrington's solo piano transcription of Mahler's 9th Symphony
-- Chopin's nocturne 27-2 in Db major
-- Chopin's prelude 28-24 in D minor
+- Chopin's ballade 4
 
 I have already played (to a quesitonable degree of mastery):
 - Bach (1685-1750): 
@@ -24,7 +22,7 @@ I have already played (to a quesitonable degree of mastery):
 - Chopin (1810-1849):
     - [ballade 1](https://youtu.be/0DLgGLZWVc4)
     - sonata 2: first and third movements
-    - nocturnes: 9-2; [48-1](https://youtu.be/NNL2VH3pXDE); Em posth; C#m posth
+    - nocturnes: 9-2; 27-2; [48-1](https://youtu.be/NNL2VH3pXDE); Em posth; C#m posth
     - etudes: 10-1; 10-4; 10-8; 10-12; 25-1; 25-12
 - Brahms (1833-1897): 
     - rhapsody in Gm

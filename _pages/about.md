@@ -21,6 +21,10 @@ social: false  # includes social icons at the bottom of the page
 
 Senior in physics and math at UIUC, and undergradaute research assistant doing work in theoretical and computational astrophysics.
 
+Experienced in developing and maintaining Python/Bash code that efficiently process and analyze large datasets.
+
+Amateur classical pianist in my free time (see the '[pretentious](pretentious)' tab). 
+
 
 <!-- High-achieving student pursuing degrees in **physics** and **mathematics** with a minor in **computer science**. Two-plus years of experience as an undergraduate research assistant doing work in theoretical and computational astrophysics. Experienced in **developing and maintaining Python/Bash code** that efficiently process and analyze large datasets. -->
 
