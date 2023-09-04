@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /pretentious/
-title: pretentious
+permalink: /piano/
+title: piano
 description: 
 nav: true
 nav_order: 5

@@ -25,7 +25,7 @@ Broadly interested in theoretical astrophysics. Have done research related to ge
 
 Experienced in developing and maintaining Python/Bash code that efficiently process and analyze large datasets.
 
-Amateur classical pianist in my free time (see the '[pretentious](pretentious)' tab). 
+Amateur classical pianist in my free time (see the '[piano](piano)' tab). 
 
 
 <!-- High-achieving student pursuing degrees in **physics** and **mathematics** with a minor in **computer science**. Two-plus years of experience as an undergraduate research assistant doing work in theoretical and computational astrophysics. Experienced in **developing and maintaining Python/Bash code** that efficiently process and analyze large datasets. -->
