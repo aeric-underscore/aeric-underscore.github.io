@@ -15,7 +15,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.S. in Physics and BS. in Mathematics
+    - title: BS in Physics, BS in Mathematics
       institution: University of Illinois at Urbana-Champaign
       year: May 2024
       description:
@@ -63,16 +63,16 @@
   contents:
     - year: Fall 2023
       items:
-        - NCSA SPIN Internship --- $9600
+        - NCSA SPIN Internship
     - year: March 2023
       items: 
-        - Office of Undergraduate Research Support Grant --- $1750
+        - Office of Undergraduate Research Support Grant
     - year: May 2022
       items: 
-        - Ralph O. Simmons Undergraduate Research Scholarship --- $3000
+        - Ralph O. Simmons Undergraduate Research Scholarship
     - year: May 2021
       items:
-        - Lorella M. Jones Summer Research Award --- $3000
+        - Lorella M. Jones Summer Research Award
 
 # - title: Academic Interests
 #   type: nested_list
