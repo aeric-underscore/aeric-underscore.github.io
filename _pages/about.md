@@ -23,7 +23,7 @@ Senior in physics and math at UIUC, and undergradaute research assistant doing w
 
 Broadly interested in simulation work in astrophysics. Currently in a numerical relativity lab where I am computing a rotating neutron star surrounded by an accretion disk for my senior thesis. I also do visualization work where I make movies of compact object systems and the gravitational waves they generate.
 
-Amateur classical pianist in my free time (see the [piano](piano)). 
+Amateur classical pianist in my free time (see [piano](piano)). 
 
 
 <!-- High-achieving student pursuing degrees in **physics** and **mathematics** with a minor in **computer science**. Two-plus years of experience as an undergraduate research assistant doing work in theoretical and computational astrophysics. Experienced in **developing and maintaining Python/Bash code** that efficiently process and analyze large datasets. -->
