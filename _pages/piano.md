@@ -4,10 +4,13 @@ permalink: /piano/
 title: piano
 description: 
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 I am an amateur classical pianist and enjoy spending my free time practicing pieces by Chopin, Rachmaninoff, Ravel, and Scriabin among others. Some recordings I'm quite proud of are linked below.
+
+<img width="600" height="400" src="/assets/img/piano.png" /> 
+
 
 Currently I am working on:
 - Chopin's ballade 4
