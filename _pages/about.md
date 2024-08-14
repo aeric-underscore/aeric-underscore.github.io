@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_3.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
@@ -19,11 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Senior in physics and math at UIUC, and undergradaute research assistant doing work in theoretical and computational astrophysics.
+First year physics PhD student at UC Berkeley. Broadly interested in astrophysics.
 
-Broadly interested in simulation work in astrophysics. Currently in a numerical relativity lab where I am computing a rotating neutron star surrounded by an accretion disk for my senior thesis. I also do visualization work where I make movies of compact object systems and the gravitational waves they generate.
+In my undergrad at UIUC, I worked in a numerical relativity lab. There, I wrote an initial data code that can compute self-gravitating accretion disks around differentially rotating neutron stars. I also did visualization work where I made movies of compact object systems and the gravitational waves they generate.
 
-Amateur classical pianist in my free time (see [piano](piano)). 
+ 
 
 
 <!-- High-achieving student pursuing degrees in **physics** and **mathematics** with a minor in **computer science**. Two-plus years of experience as an undergraduate research assistant doing work in theoretical and computational astrophysics. Experienced in **developing and maintaining Python/Bash code** that efficiently process and analyze large datasets. -->

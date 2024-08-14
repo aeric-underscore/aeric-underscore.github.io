@@ -3,6 +3,6 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 4
-cv_pdf: Grad_School_CV.pdf
+nav_order: 3
+cv_pdf: academic_CV.pdf
 ---

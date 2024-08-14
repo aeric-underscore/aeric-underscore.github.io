@@ -4,9 +4,9 @@
     - name: Name
       value: Eric Yu (he/him)
     - name: Email
-      value: aeric.underscore@gmail.com	
+      value: ericyu3@berkeley.edu
     - name: Location
-      value: Urbana, Illinois
+      value: Berkeley, CA
     # - name: Date of Birth
     #   value: 28th June 2002
     # - name: Languages
@@ -15,9 +15,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Physics
+      institution: University of California, Berkeley
+      year: August 2024 - Present
     - title: BS in Physics, BS in Mathematics
-      institution: University of Illinois at Urbana-Champaign
-      year: May 2024
+      institution: University of Illinois Urbana-Champaign
+      year: August 2020 - May 2024
 
 - title: Experience
   type: time_table
@@ -30,17 +33,20 @@
     - title: Lead Undergraduate Research Assistant
       institution: Center for Theoretical Astrophysics, University of Illinois at Urbana-Champaign
       advisor: Professor Stuart L. Shapiro
-      year: June 2021 - Present
+      year: June 2021 - July 2024
 
 - title: Presentations/Posters
   type: time_table
   contents:
-    - title: STEM Career Exploration Symposium
-      institution: Gravitational Waves from Black Holes Surrounded by Massive Accretion Disks (<a href="/assets/pdf/poster_7-2023_GWs.pdf" target="_blank">poster</a>)
+    - title: Self-gravitating neutron star-disks in general relativity (<a href="/assets/pdf/oral_4-2024_APS.pdf" target="_blank">oral</a>)
+      institution: APS April Meeting, NCSA Annual Student Research Conference, UIUC Undergraduate Research Symposium
+      year: April 2024
+    - title: Gravitational waves from black holes surrounded by massive accretion disks (<a href="/assets/pdf/poster_7-2023_GWs.pdf" target="_blank">poster</a>)
+      institution: STEM Career Exploration Symposium
       year: July 2023
 
-    - title: UIUC Undergraduate Research Symposium
-      institution: 3D Visualizations of Rapidly Spinning, Tilted Black Holes with Self-Gravitating Accretion Disks (<a href="/assets/pdf/poster_4-2023_URS.pdf" target="_blank">poster</a>)
+    - title: 3D visualizations of rapidly spinning, tilted black holes with self-gravitating accretion disks (<a href="/assets/pdf/poster_4-2023_URS.pdf" target="_blank">poster</a>)
+      institution: UIUC Undergraduate Research Symposium
       year: April 2023
 
 # - title: Open Source Projects
@@ -60,7 +66,7 @@
   contents:
     - year: Fall 2023
       items:
-        - NCSA SPIN Internship
+        - NCSA SPIN Fellowship
     - year: March 2023
       items: 
         - Office of Undergraduate Research Support Grant

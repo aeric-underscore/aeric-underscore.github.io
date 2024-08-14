@@ -13,7 +13,8 @@ I am an amateur classical pianist and enjoy spending my free time practicing pie
 
 
 Currently I am working on:
-- Chopin's ballade 4
+- nothing :(
+
 
 I have already played (to a quesitonable degree of mastery):
 - Bach (1685-1750): 
@@ -27,6 +28,7 @@ I have already played (to a quesitonable degree of mastery):
     - sonata 2: first and third movements
     - nocturnes: 9-2; 27-2; [48-1](https://youtu.be/NNL2VH3pXDE); Em posth; C#m posth
     - etudes: 10-1; 10-4; 10-8; 10-12; 25-1; 25-12
+    - ballade 4
 - Brahms (1833-1897): 
     - rhapsody in Gm
 - Debussy (1862-1918):
@@ -37,5 +39,7 @@ I have already played (to a quesitonable degree of mastery):
     - piano concerto 2: [first movement](https://youtu.be/T01d41ffO58)
 - Ravel (1875-1937): 
     - Pavane for a dead princess
+- Rebecca Clarke (1886-1979):
+    - Viola Sonata (accompanied Lionel Yu)
 
 
