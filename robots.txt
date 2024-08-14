@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ericyu3.github.io/sitemap.xml
+Sitemap: https://aeric-underscore.github.io/sitemap.xml
